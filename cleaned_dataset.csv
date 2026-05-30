@@ -1,0 +1,13 @@
+customer_id,name,age,gender,country,joining_date,salary
+101,John,25,Male,USA,01-01-2024,50000.0
+102,Mary,29,Female,India,,60000.0
+103,John,25,Male,USA,01-01-2024,50000.0
+104,David,30,Male,UK,,70000.0
+105,Sarah,28,Female,India,,62000.0
+106,Alex,35,Male,India,,80000.0
+107,Emma,29,Female,USA,01-04-2024,55000.0
+108,Chris,29,Male,UK,,62000.0
+109,Sophia,31,Female,India,01-01-2024,72000.0
+110,James,40,Male,USA,,90000.0
+111,John,25,Male,USA,01-01-2024,50000.0
+112,Olivia,29,Female,India,01-07-2024,65000.0
